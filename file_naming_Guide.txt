@@ -1,0 +1,26 @@
+MGB Landslide Susceptibility layers 
+
+1. Low Susceptibility: 
+uRIL_AWS_Low_Susceptibility.geojson
+
+2. High Susceptibility: 
+uRIL_AWS_High Susceptibility.geojson
+
+3. Moderate Susceptibility: uRIL_AWS_Moderate_Susceptibility.geojson
+
+Boundaries
+
+1. Barangay Boundary:
+LIGTAS_BarangayBoundary_BenguetAWS.geojson
+
+2. Municipality Boundary:
+
+3. Provincial Boundary:
+
+4. Regional Boundary: 
+
+5. Benguet Boundary
+
+Landslide Data
+
+1. LandslideDB-web.geojson
