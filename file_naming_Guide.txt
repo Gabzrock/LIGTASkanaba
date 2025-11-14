@@ -24,3 +24,5 @@ LIGTAS_BarangayBoundary_BenguetAWS.geojson
 Landslide Data
 
 1. LandslideDB-web.geojson
+
+https://raw.githubusercontent.com/Gabzrock/LIGTASAGADEWSV3/refs/heads/main/
